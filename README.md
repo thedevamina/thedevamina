@@ -42,8 +42,7 @@ TypeScript, JavaScript, Dart, React, React Native, Expo, Node.js, Express, Mongo
 - Better full-stack architecture patterns for scalable products
 - AI-assisted development workflows for faster iteration
 - UI/UX implementation quality across web and mobile
-- Building **SmarkTech** privately as an early-stage venture around software, AI, practical technology education, and digital products
-
+- Exploring SmarkTech, an early-stage venture around software, AI, practical technology education, and digital products.
 ## Contact
 
 - GitHub: [@thedevamina](https://github.com/thedevamina)
