@@ -1,84 +1,93 @@
-# Amina Ali
+<h1 align="center">Amina Ali</h1>
+<p align="center"><strong>Software Engineer • Full-Stack Developer • Product Builder</strong></p>
+<p align="center">Founder of <strong>SmarkTech</strong></p>
 
-**Software Engineer • Full-Stack Developer • Product Builder**
+<p align="center">
+I build practical software products that solve real problems across <strong>web</strong>, <strong>mobile</strong>, and <strong>AI/ML</strong>.
+</p>
 
-I design and ship practical software products across web, mobile, and AI-powered workflows.
-
-[Portfolio Projects](https://github.com/thedevamina?tab=repositories) • [Work With Me](https://github.com/thedevamina) • [SmarkTech](https://github.com/thedevamina)
+<p align="center">
+  <a href="https://github.com/thedevamina?tab=repositories">Projects</a> •
+  <a href="https://github.com/thedevamina/SpendWise">SpendWise</a> •
+  <a href="https://github.com/thedevamina/AI-ML-Projects">AI/ML Projects</a> •
+  <a href="https://github.com/thedevamina/dev-journey-flutter">Flutter Journey</a>
+</p>
 
 ---
 
 ## What I Build
 
-| Area | Focus |
-|---|---|
-| **Web** | React-based interfaces, API-connected product flows, and structured frontend architecture |
-| **Mobile** | React Native / Expo apps with auth, persistence, and production-style user journeys |
-| **AI / ML** | ML models connected to Flask APIs and usable product interfaces |
-| **Product Engineering** | Problem-first design, modular implementation, and iterative improvement |
+### Web
+Clean, product-focused interfaces connected to practical backend workflows.
+
+### Mobile
+Cross-platform app experiences with authentication, persistence, and real user flows.
+
+### AI / ML
+Model-backed features exposed through usable APIs and simple product interfaces.
+
+### Product Engineering
+End-to-end thinking from problem definition to iterative delivery.
 
 ---
 
 ## Selected Projects
 
 ### [SpendWise](https://github.com/thedevamina/SpendWise)
-Mobile expense-tracking app built with Expo + React Native.
-
-- **Built:** auth screens, protected routing, session persistence, expense CRUD screens, category analytics UI, API integration
-- **Tech:** TypeScript, React Native, Expo Router, Axios, AsyncStorage
-- **Notes:** repository currently contains frontend implementation and API integration; backend implementation files are not included
+**Purpose:** Mobile expense tracking for everyday financial visibility.  
+**Built:** Frontend implementation with API integration, auth screens, protected routing, session persistence, expense CRUD screens, and category analytics UI.  
+**Technology:** TypeScript, React Native, Expo, Expo Router, Axios, AsyncStorage
 
 ### [ClientIQ](https://github.com/thedevamina/AI-ML-Projects/tree/main/ClientIQ)
-AI-powered recommendation app for matching freelancer profiles to suggested platforms.
-
-- **Built:** multi-model ML workflow, Flask API endpoints, React frontend for profile input and recommendations, model/config persistence
-- **Tech:** Python, Flask, scikit-learn, Pandas, NumPy, React
-- **Proof:** includes model notebook/artifacts plus backend and frontend folders in repository
+**Purpose:** AI-powered recommendations for matching freelancer profiles to suggested platforms.  
+**Built:** Multi-model ML workflow, Flask API endpoints, React interface for profile input and recommendations, and model/config persistence.  
+**Technology:** Python, Flask, scikit-learn, Pandas, NumPy, React
 
 ### [CropIQ](https://github.com/thedevamina/AI-ML-Projects/tree/main/CropIQ)
-Crop disease classification web app structure using React + Flask.
-
-- **Built:** frontend/backend project structure and Flask API layer for image-classification workflow
-- **Tech:** React, JavaScript, Flask, Python
-- **Notes:** trained model file is excluded from repository due to size (as documented)
+**Purpose:** Crop disease classification web app structure.  
+**Built:** React + Flask frontend/backend structure, Flask API layer, and image-classification workflow.  
+**Technology:** React, JavaScript, Flask, Python  
+**Note:** Trained model file is excluded from the repository due to size.
 
 ### [dev-journey-flutter](https://github.com/thedevamina/dev-journey-flutter)
-Early-stage Flutter learning/project repository.
-
-- **Built:** foundational mobile project structure in Dart/Flutter
-- **Tech:** Dart, Flutter
+**Purpose:** Early-stage Flutter learning and project foundation.  
+**Built:** Foundational mobile project structure.  
+**Technology:** Dart
 
 ---
 
-## How I Build
+## Building SmarkTech
+
+I’m building **SmarkTech** as a practical technology company focused on software, AI, education, and useful digital products.
+
+---
+
+## Engineering Approach
 
 **Problem → Design → Build → Test → Improve**
 
-I start with a concrete user problem, map the core flow, build modularly, verify behavior through iterative testing, and refine based on what the product actually needs.
+I focus on understanding the real problem first, designing clear product flows, building modularly, validating behavior through testing, and improving based on practical usage and feedback.
 
 ---
 
-## Currently Building / Exploring
+## Current Focus
 
-- Expanding **SmarkTech** project direction through practical software products
-- Deepening mobile + API architecture through **SpendWise**
-- Continuing AI-assisted product work through **ClientIQ** and **CropIQ**
-
----
-
-## Tech
-
-JavaScript • TypeScript • Python • Dart  
-React • React Native • Expo • Flask  
-scikit-learn • Pandas • NumPy • Axios • AsyncStorage
+- Growing **SmarkTech** with practical product direction
+- Deepening full-stack engineering across mobile and API architecture
+- Advancing practical AI/ML product work through iterative builds
 
 ---
 
-## Let’s Work Together
+## Tech Stack
 
-I’m open to:
-- Full-stack software engineering roles
-- Freelance product development (web/mobile)
-- Collaborations on AI-integrated applications
+`JavaScript` `TypeScript` `Python` `Dart`  
+`React` `React Native` `Expo` `Flask`  
+`scikit-learn` `Pandas` `NumPy` `Axios` `AsyncStorage`
 
-If you’d like to discuss a project or role, reach out via GitHub: **[@thedevamina](https://github.com/thedevamina)**
+---
+
+## Let’s Build Something Useful
+
+I’m open to software engineering opportunities, product collaborations, and practical build partnerships.
+
+If my work aligns with what you’re building, connect with me on GitHub: **[@thedevamina](https://github.com/thedevamina)**
