@@ -4,7 +4,6 @@
 
 <h1 align="center">Amina Ali</h1>
 <p align="center"><strong>Software Engineer • Full-Stack Developer • Product Builder</strong></p>
-<p align="center">Founder of <strong>SmarkTech</strong></p>
 
 <p align="center">
 I build practical software products that solve real problems across web, mobile, and AI/ML.
@@ -15,7 +14,6 @@ I build practical software products that solve real problems across web, mobile,
   <a href="https://github.com/thedevamina/SpendWise">SpendWise</a> •
   <a href="https://github.com/thedevamina/AI-ML-Projects">AI/ML Projects</a> •
   <a href="https://github.com/thedevamina/dev-journey-flutter">Flutter Journey</a> •
-  <a href="https://github.com/thedevamina">SmarkTech</a>
 </p>
 
 ---
