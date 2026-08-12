@@ -1,4 +1,4 @@
-<p align="center" background="blue">
+<p align="center">
   <img src="https://raw.githubusercontent.com/thedevamina/thedevamina/main/assets/hero.svg" alt="Amina Ali — Software Engineer, Full-Stack Developer, Product Builder" width="100%" />
 </p>
 
