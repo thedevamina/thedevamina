@@ -20,9 +20,6 @@
   <a href="https://github.com/thedevamina/SpendWise"><img src="https://img.shields.io/badge/SpendWise-0f1b30?style=flat-square" /></a>
   <a href="https://github.com/thedevamina/AI-ML-Projects"><img src="https://img.shields.io/badge/AI%2FML_Projects-0f1b30?style=flat-square" /></a>
   <a href="https://github.com/thedevamina/dev-journey-flutter"><img src="https://img.shields.io/badge/Flutter_Journey-0f1b30?style=flat-square" /></a>
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=thedevamina&label=Profile%20Views&color=0f1b30&style=flat-square" />
 </p>
 
