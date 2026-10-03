@@ -80,6 +80,11 @@
       <h3><a href="https://github.com/thedevamina/code-quest">🎓 Code Quest</a></h3>
       <p>Full-stack coding learning and assessment platform with structured courses, chapter lessons, tests, exams, and progress tracking.</p>
       <p><strong>Built:</strong> React + Laravel platform with MySQL persistence, Sanctum authentication, assessments, progress tracking, and admin content management.</p>
+      <p align="center">
+  <a href="https://thedevamina-code-quest.vercel.app">
+    <img src="https://img.shields.io/badge/Live_Demo-Code_Quest-0f1b30?style=for-the-badge&logo=vercel&logoColor=38bdf8" />
+  </a>
+</p>
       <p>
         <img src="https://img.shields.io/badge/React-0f1b30?style=flat-square&logo=react&logoColor=38bdf8" />
         <img src="https://img.shields.io/badge/Laravel-0f1b30?style=flat-square&logo=laravel&logoColor=38bdf8" />
