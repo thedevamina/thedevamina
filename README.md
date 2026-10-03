@@ -76,16 +76,18 @@
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/thedevamina/01-task-manager">🐳 Dockerized CI/CD Deployment</a></h3>
-      <p>A task manager containerized and deployed to AWS EC2 with a fully automated pipeline.</p>
-      <p><strong>Built:</strong> Docker Compose stack (Nginx + PHP + MySQL) and a GitHub Actions workflow that SSHes into EC2 and redeploys on every push to <code>main</code>.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Docker-0f1b30?style=flat-square&logo=docker&logoColor=38bdf8" />
-        <img src="https://img.shields.io/badge/GitHub_Actions-0f1b30?style=flat-square&logo=githubactions&logoColor=38bdf8" />
-        <img src="https://img.shields.io/badge/AWS_EC2-0f1b30?style=flat-square&logo=amazonaws&logoColor=38bdf8" />
-      </p>
-    </td>
+       <td width="50%" valign="top">
+  <h3><a href="https://github.com/thedevamina/code-quest">🎓 Code Quest</a></h3>
+  <p>Full-stack coding learning and assessment platform with structured courses, chapter lessons, tests, exams, and progress tracking.</p>
+  <p><strong>Built:</strong> React + Laravel platform with MySQL persistence, Sanctum authentication, assessments, and admin content management.</p>
+  <p>
+    <img src="https://img.shields.io/badge/React-0f1b30?style=flat-square&logo=react&logoColor=38bdf8" />
+    <img src="https://img.shields.io/badge/Laravel-0f1b30?style=flat-square&logo=laravel&logoColor=38bdf8" />
+    <img src="https://img.shields.io/badge/MySQL-0f1b30?style=flat-square&logo=mysql&logoColor=38bdf8" />
+    <img src="https://img.shields.io/badge/TypeScript-0f1b30?style=flat-square&logo=typescript&logoColor=38bdf8" />
+  </p>
+</td>
+   
     <td width="50%" valign="top">
       <h3><a href="https://github.com/thedevamina/SpendWise">💰 SpendWise</a></h3>
       <p>Mobile expense tracking for everyday financial visibility.</p>
@@ -120,6 +122,7 @@
     </td>
   </tr>
   <tr>
+    
     <td width="50%" valign="top">
       <h3><a href="https://github.com/thedevamina/dev-journey-flutter">📘 dev-journey-flutter</a></h3>
       <p>Early-stage Flutter learning and project foundation.</p>
@@ -129,7 +132,16 @@
         <img src="https://img.shields.io/badge/Flutter-0f1b30?style=flat-square&logo=flutter&logoColor=38bdf8" />
       </p>
     </td>
-    <td width="50%" valign="top"></td>
+ <td width="50%" valign="top">
+      <h3><a href="https://github.com/thedevamina/01-task-manager">🐳 Dockerized CI/CD Deployment</a></h3>
+      <p>A task manager containerized and deployed to AWS EC2 with a fully automated pipeline.</p>
+      <p><strong>Built:</strong> Docker Compose stack (Nginx + PHP + MySQL) and a GitHub Actions workflow that SSHes into EC2 and redeploys on every push to <code>main</code>.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Docker-0f1b30?style=flat-square&logo=docker&logoColor=38bdf8" />
+        <img src="https://img.shields.io/badge/GitHub_Actions-0f1b30?style=flat-square&logo=githubactions&logoColor=38bdf8" />
+        <img src="https://img.shields.io/badge/AWS_EC2-0f1b30?style=flat-square&logo=amazonaws&logoColor=38bdf8" />
+      </p>
+    </td>
   </tr>
 </table>
 
